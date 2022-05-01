@@ -3,14 +3,6 @@
 Edit by Phan Hong Son
 Project AI Ho Chi Minh University of Technology and Education
 """
-#https://gist.github.com/Hossam-Elbahrawy/391f060242e7203702da0843fd523d4f
-
-"""
-8-puzzle using  IDDFS algorithm
-Edit by Phan Hong Son
-Project AI Ho Chi Minh University of Technology and Education
-"""
-
 import numpy as np
 
 size = 3
